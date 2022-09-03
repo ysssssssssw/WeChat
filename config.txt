@@ -1,0 +1,44 @@
+##############################
+##
+##       作者：张澳旗
+##     微信：17600005204
+##   有偿代做、每天自动推送
+##
+##############################
+
+{
+"app_id": "wx97f77b7b322a029e",
+"app_secret": "fb9bbcd8ae45f9cc847b656e0ba06f7b",
+
+"template_id": "iZuA2sIKjGxbPoLnkEyCAtRNj4qhVNKfz9vf2yI0fO4",
+"user_id": ["o1dh-6U-pmbKU1zwuH29AGHa8kDA"],
+#"user_id": ["请替换为自己的 微信号 01" , "请替换为自己的 微信号 02"],
+
+"C_ShengFen": "陕西",
+"C_ChengShi": "西安",
+"S_XingZuo": "金牛座",
+
+"S_Love": "2018-10-27",
+"birthday1": "2002-01-25",
+"birthday2": "2002-05-12",
+
+"C_String01": "----Ysssssss_w",
+"C_String02": "比心比心",
+"C_String03": "可以替换为自己想要的文字 03",
+
+
+# 天气预报
+"API_TQYB":"66c5aa653ce4883d17db54afa22a4a2c",
+# 星座运势
+"API_XZYS":"66c5aa653ce4883d17db54afa22a4a2c",
+
+# 早安心语
+"API_ZAXY":"66c5aa653ce4883d17db54afa22a4a2c",
+# 晚安心语
+"API_WAXY":"66c5aa653ce4883d17db54afa22a4a2c",
+
+# 舔狗日记
+"API_TGRJ":"66c5aa653ce4883d17db54afa22a4a2c",
+# 土味情话
+"API_TWQH":"66c5aa653ce4883d17db54afa22a4a2c"
+}
